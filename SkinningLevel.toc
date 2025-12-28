@@ -1,0 +1,9 @@
+## Interface: 50502
+## Title: Skinning Level
+## Notes: Shows max enemy level for skinning
+## Author: Gigatrust
+## Version: 1.0
+## SavedVariables:
+## SavedVariablesPerCharacter: sklvldb
+
+main.lua
